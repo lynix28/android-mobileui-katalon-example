@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description>Android mobile UI automation test project example using Katalon</description>
-   <name>android-mobileui-katalon-java2</name>
+   <name>android-mobileui-katalon-example</name>
    <tag></tag>
    <UUID>81f0c968-534c-45f8-aa80-24270cb932a4</UUID>
    <migratedVersion>5.9.0</migratedVersion>
